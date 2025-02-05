@@ -1,0 +1,25 @@
+.margin{
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    margin-left: 8cm;
+    margin-right: 8cm;
+}
+.login{
+    text-align: center;
+}
+.style{
+    font-family: "Oswald", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+  .space1{
+    margin-bottom: 1cm;
+  }
+
+  .position{
+    text-align: right;
+  }
+
+  

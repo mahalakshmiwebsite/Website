@@ -1,0 +1,134 @@
+.mycolor{
+    background-color: none;
+    color: purple;
+    font-size: medium;
+    font-weight: bolder;
+    
+  }
+
+ .navbar{
+    background-color: paleturquoise;
+    border-radius: 0%;
+    padding: 3%;
+    font-size: medium;
+    font-weight: bolder;
+ }
+
+ .navbar a{
+    text-decoration: none;
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+    color: black;
+ }
+
+ .navbar a:hover{
+    color: plum;
+ }
+
+
+ 
+
+ 
+
+ .footer{
+   border-radius: 0cm;
+   background-color: black;
+   padding: 1cm;
+ }
+
+ .footer h5{
+   color: white;
+   font-size: medium;
+   font-weight: bolder;
+ }
+
+ .footer h2{
+   color: yellow;
+ }
+
+ footer a{
+   text-decoration: none;
+   color: white;
+   padding: 1cm;
+   text-transform: capitalize;
+ }
+
+ .footer h3{
+   color: snow;
+   text-decoration: underline;
+   font-weight: bolder;
+ }
+
+ .f1{
+   color: darkcyan;
+ }
+
+ .footer a:hover{
+   color: aqua;
+   font-size: large;
+ }
+
+
+ 
+ .margin{
+   margin-top: 2cm;
+   margin-bottom: 2cm;
+   margin-left: 8cm;
+   margin-right: 8cm;
+}
+
+
+
+
+
+
+
+.font {
+  font-family: "Oswald", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.font1{
+  font-family: "Oswald", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.font2 {
+  font-family: "Oswald", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+
+
+
+.emp1 {
+  font-family: "Oswald", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.text{
+  font-weight: bold;
+  color: green;
+}
+
+
+.text1{
+  font-weight: bold;
+  color: blue;
+}
+
+
+
+.bold{
+  font-weight: bolder;
+  color: black;
+}
